@@ -1,0 +1,1312 @@
+[00:00:09.553] Server  LOG      ✓ Ready in 6.5s
+[00:00:15.551] Server  LOG      ○ Compiling / ...
+[00:00:19.056] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.173] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:22:18.542] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:18.659] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:22:36.241] Browser ERROR   ./src/app/page.js:4:10
+Parsing ecmascript source code failed
+  2 |
+  3 | export default function Home() {
+> 4 |   return (
+    |          ^
+> 5 |     
+    | ^^^^
+> 6 |   );
+    | ^^^^
+  7 | }
+  8 |
+
+Parenthesized expression cannot be empty
+[00:22:38.512] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9599b089._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:22:38.514] Server  ERROR    ⨯ ReferenceError: h1 is not defined
+[00:22:39.236] Browser ERROR   uncaughtError: ReferenceError: h1 is not defined
+[00:22:45.237] Browser ERROR   ./src/app/page.js:4:10
+Parsing ecmascript source code failed
+  2 |
+  3 | export default function Home() {
+> 4 |   return (
+    |          ^
+> 5 |     
+    | ^^^^
+> 6 |   );
+    | ^^^^
+  7 | }
+  8 |
+
+Parenthesized expression cannot be empty
+[00:22:47.356] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:22:48.250] Browser WARN    Image with src "http://localhost:3000/vercel.svg" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:23:02.049] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__9599b089._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:23:02.050] Server  ERROR    ⨯ ReferenceError: div is not defined
+[00:23:02.241] Browser ERROR   uncaughtError: ReferenceError: div is not defined
+[00:23:05.247] Browser ERROR   ./src/app/page.js:4:10
+Parsing ecmascript source code failed
+  2 |
+  3 | export default function Home() {
+> 4 |   return (
+    |          ^
+> 5 |     
+    | ^^^^
+> 6 |   );
+    | ^^^^
+  7 | }
+  8 |
+
+Parenthesized expression cannot be empty
+[00:23:08.544] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:17.333] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:23.470] Server  LOG      ✓ Compiled in 231ms
+[00:28:26.198] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:28:30.851] Server  LOG      ✓ Compiled in 36ms
+[00:28:34.902] Server  LOG      ✓ Compiled in 37ms
+[00:31:07.801] Server  LOG      ✓ Compiled in 2.4s
+[00:32:25.594] Server  LOG      ✓ Compiled in 79ms
+[00:33:02.237] Browser ERROR   ./src/app/layout.js:26:10
+Parsing ecmascript source code failed
+  24 |       >
+  25 |         <Navbar
+> 26 |         {children}
+     |          ^^^^^^^^
+  27 |       </body>
+  28 |     </html>
+  29 |   );
+
+Expected '</', got 'children'
+[00:33:04.601] Server  LOG      ✓ Compiled in 105ms
+[00:33:23.461] Server  LOG      ✓ Compiled in 47ms
+[00:33:24.239] Browser ERROR   ./src/app/globals.css
+Error evaluating Node.js code
+CssSyntaxError: F:\Programing-Hero-EJP\Blog\client\src\app\globals.css:5:3: Unknown word back
+    [at Input.error (turbopack:///[project]/node_modules/postcss/lib/input.js:135:16)]
+    [at Parser.unknownWord (turbopack:///[project]/node_modules/postcss/lib/parser.js:595:22)]
+    [at Parser.other (turbopack:///[project]/node_modules/postcss/lib/parser.js:437:12)]
+    [at Parser.parse (turbopack:///[project]/node_modules/postcss/lib/parser.js:472:16)]
+    [at parse (turbopack:///[project]/node_modules/postcss/lib/parse.js:11:12)]
+    [at new LazyResult (turbopack:///[project]/node_modules/postcss/lib/lazy-result.js:165:16)]
+    [at Processor.process (turbopack:///[project]/node_modules/postcss/lib/processor.js:53:14)]
+    [at transform (turbopack:///[turbopack-node]/transforms/postcss.ts:70:51)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:92:29)]
+    [at run (turbopack:///[turbopack-node]/ipc/evaluate.ts:115:11)]
+
+Import trace:
+  Client Component Browser:
+    ./src/app/globals.css [Client Component Browser]
+    ./src/app/layout.js [Server Component]
+[00:35:47.898] Server  LOG      ✓ Compiled in 255ms
+[00:35:55.100] Server  LOG      ✓ Compiled in 73ms
+[00:36:01.773] Server  LOG      ✓ Compiled in 86ms
+[00:36:03.752] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:36:15.277] Server  LOG      ✓ Compiled in 107ms
+[00:37:15.206] Server  LOG      ✓ Compiled in 166ms
+[00:37:22.639] Server  LOG      ✓ Compiled in 65ms
+[00:38:36.195] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:49:28.802] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.803] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.804] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.804] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.805] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.806] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.807] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.808] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.809] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.809] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.810] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:28.810] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:49:29.244] Browser ERROR   ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:50:42.241] Browser ERROR   ./src/assets/assets.js:1:1
+Module not found: Can't resolve 'logo.png'
+> 1 | import logo from 'logo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:52:45.242] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {src, width, height, blurWidth, blurHeight, blurDataURL}). If you meant to render a collection of children, use an array instead.
+[00:52:46.929] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.930] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.932] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.932] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.933] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.934] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.935] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.936] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.937] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.938] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.939] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:46.940] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:47.244] Browser ERROR   ./src/assets/assets.js:1:1
+Module not found: Can't resolve './logo.pnglogo.png'
+> 1 | import logo from './logo.pnglogo.png'
+    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:52:48.955] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:52:48.958] Server  ERROR    ⨯ Error: Objects are not valid as a React child (found: object with keys {src, width, height, blurWidth, blurHeight, blurDataURL}). If you meant to render a collection of children, use an array instead.
+[00:52:49.137] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:50.248] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {src, width, height, blurWidth, blurHeight, blurDataURL}). If you meant to render a collection of children, use an array instead.
+[00:52:52.375] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.376] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.377] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.377] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.378] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.378] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.380] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.381] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.382] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:52.383] Server  ERROR    ⨯ ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:52:53.241] Browser ERROR   ./src/assets/assets.js:1:1
+Module not found: Can't resolve './'
+> 1 | import logo from './'
+    | ^^^^^^^^^^^^^^^^^^^^^
+  2 |
+  3 | export const assets = {
+  4 |     logo
+
+Import trace:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:52:53.481] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:52:53.481] Server  ERROR    ⨯ Error: Objects are not valid as a React child (found: object with keys {src, width, height, blurWidth, blurHeight, blurDataURL}). If you meant to render a collection of children, use an array instead.
+[00:52:53.590] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:52:54.246] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {src, width, height, blurWidth, blurHeight, blurDataURL}). If you meant to render a collection of children, use an array instead.
+[00:53:10.085] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__e9be1b63._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:53:10.085] Server  ERROR    ⨯ ReferenceError: assets is not defined
+[00:53:10.254] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:11.243] Browser ERROR   uncaughtError: ReferenceError: assets is not defined
+[00:53:17.660] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:53:19.673] Browser ERROR   uncaughtError: Error: Objects are not valid as a React child (found: object with keys {src, width, height, blurWidth, blurHeight, blurDataURL}). If you meant to render a collection of children, use an array instead.
+[00:54:42.054] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:54:50.236] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:7
+Parsing ecmascript source code failed
+  50 |         {/* <a className="btn btn-ghost text-xl">{assets.logo}</a> */}
+  51 |         <Image
+> 52 |       </div>
+     |       ^
+  53 |       <div className="navbar-center hidden lg:flex">
+  54 |         <ul className="menu menu-horizontal px-1">
+  55 |           <li>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:54:50.236] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:8
+Parsing ecmascript source code failed
+  50 |         {/* <a className="btn btn-ghost text-xl">{assets.logo}</a> */}
+  51 |         <Image
+> 52 |       </div>
+     |        ^^^^^
+  53 |       <div className="navbar-center hidden lg:flex">
+  54 |         <ul className="menu menu-horizontal px-1">
+  55 |           <li>
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:54:51.248] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:53:7
+Parsing ecmascript source code failed
+  51 |         {/* <a className="btn btn-ghost text-xl">{assets.logo}</a> */}
+  52 |         <Image
+> 53 |       </div>
+     |       ^
+  54 |       <div className="navbar-center hidden lg:flex">
+  55 |         <ul className="menu menu-horizontal px-1">
+  56 |           <li>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:54:51.248] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:53:8
+Parsing ecmascript source code failed
+  51 |         {/* <a className="btn btn-ghost text-xl">{assets.logo}</a> */}
+  52 |         <Image
+> 53 |       </div>
+     |        ^^^^^
+  54 |       <div className="navbar-center hidden lg:flex">
+  55 |         <ul className="menu menu-horizontal px-1">
+  56 |           <li>
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:54:53.055] Server  LOG      ✓ Compiled in 137ms
+[00:54:54.239] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:54:54.239] Browser ERROR   Image is missing required "src" property: <img>
+[00:54:54.239] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:55:09.240] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:53:7
+Parsing ecmascript source code failed
+  51 |         {/* <a className="btn btn-ghost text-xl">{assets.logo}</a> */}
+  52 |         <Image src={} />
+> 53 |       </div>
+     |       ^
+  54 |       <div className="navbar-center hidden lg:flex">
+  55 |         <ul className="menu menu-horizontal px-1">
+  56 |           <li>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:55:09.240] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:53:8
+Parsing ecmascript source code failed
+  51 |         {/* <a className="btn btn-ghost text-xl">{assets.logo}</a> */}
+  52 |         <Image src={} />
+> 53 |       </div>
+     |        ^^^^^
+  54 |       <div className="navbar-center hidden lg:flex">
+  55 |         <ul className="menu menu-horizontal px-1">
+  56 |           <li>
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:55:13.154] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__04d00c15._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:55:13.155] Server  ERROR    ⨯ ReferenceError: ass is not defined
+[00:55:14.248] Browser ERROR   uncaughtError: ReferenceError: ass is not defined
+[00:55:14.500] Server  ERROR   An empty string ("") was passed to the src attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to src instead of an empty string.
+[00:55:14.607] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:55:15.246] Browser ERROR   An empty string ("") was passed to the %s attribute. This may cause the browser to download the whole page again over the network. To fix this, either do not render the element at all or pass null to %s instead of an empty string. src src
+[00:55:15.246] Browser ERROR   Image is missing required "src" property: <img>
+[00:55:15.246] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:55:17.718] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:55:29.684] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__04d00c15._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:55:29.685] Server  ERROR    ⨯ ReferenceError: logo is not defined
+[00:55:30.236] Browser ERROR   uncaughtError: ReferenceError: logo is not defined
+[00:56:15.721] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:56:16.236] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:56:25.238] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:56:25.238] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:56:29.248] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:56:29.248] Browser ERROR   Image is missing required "alt" property. Please add Alternative Text to describe the image for screen readers and search engines.
+[00:56:39.636] Browser WARN    Image with src "/_next/static/media/logo.4f677e88.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:58:29.834] Browser WARN    Image with src "/_next/static/media/logo.4f677e88.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[00:59:08.235] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:7
+Parsing ecmascript source code failed
+  50 |         </div>
+  51 |         <Image src={assets.logo} alt="logo" width={120} height={} />
+> 52 |       </div>
+     |       ^
+  53 |       <div className="navbar-center hidden lg:flex">
+  54 |         <ul className="menu menu-horizontal px-1">
+  55 |           <li>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:59:08.235] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:8
+Parsing ecmascript source code failed
+  50 |         </div>
+  51 |         <Image src={assets.logo} alt="logo" width={120} height={} />
+> 52 |       </div>
+     |        ^^^^^
+  53 |       <div className="navbar-center hidden lg:flex">
+  54 |         <ul className="menu menu-horizontal px-1">
+  55 |           <li>
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:59:30.248] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:7
+Parsing ecmascript source code failed
+  50 |         </div>
+  51 |         <Link
+> 52 |       </div>
+     |       ^
+  53 |       <div className="navbar-center hidden lg:flex">
+  54 |         <ul className="menu menu-horizontal px-1">
+  55 |           <li>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:59:30.248] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:8
+Parsing ecmascript source code failed
+  50 |         </div>
+  51 |         <Link
+> 52 |       </div>
+     |        ^^^^^
+  53 |       <div className="navbar-center hidden lg:flex">
+  54 |         <ul className="menu menu-horizontal px-1">
+  55 |           <li>
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[00:59:34.247] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[00:59:36.235] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_80ea289a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:59:36.242] Server  ERROR    ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+[00:59:36.397] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:59:37.247] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:00:36.585] Server  LOG      ✓ Compiled in 107ms
+[01:00:36.735] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\node_modules_80ea289a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:00:36.736] Server  ERROR    ⨯ Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+[01:00:36.923] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:37.238] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:00:39.237] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:22
+Parsing ecmascript source code failed
+  50 |           </ul>
+  51 |         </div>
+> 52 |         <Link href={}><Image src={assets.logo} alt="logo" width={120} height={30} /></Link>
+     |                      ^
+  53 |       </div>
+  54 |       <div className="navbar-center hidden lg:flex">
+  55 |         <ul className="menu menu-horizontal px-1">
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:00:39.237] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:52:86
+Parsing ecmascript source code failed
+  50 |           </ul>
+  51 |         </div>
+> 52 |         <Link href={}><Image src={assets.logo} alt="logo" width={120} height={30} /></Link>
+     |                                                                                      ^^^^^^
+  53 |       </div>
+  54 |       <div className="navbar-center hidden lg:flex">
+  55 |         <ul className="menu menu-horizontal px-1">
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:00:40.922] Server  LOG      ✓ Compiled in 28ms
+[01:00:41.284] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:00:41.413] Browser WARN    Image with src "/_next/static/media/logo.4f677e88.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:00:41.560] Browser WARN    Image with src "/_next/static/media/logo.4f677e88.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:01:25.119] Browser WARN    Image with src "/_next/static/media/logo.8a00352d.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:02:01.225] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:07:28.246] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:11:5
+Parsing ecmascript source code failed
+   9 |       <a>Home</a>
+  10 |     </li
+> 11 |     <li>
+     |     ^
+  12 |       <a>About</a>
+  13 |     </li>
+  14 |     <li>
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:07:28.246] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:13:6
+Parsing ecmascript source code failed
+  11 |     <li>
+  12 |       <a>About</a>
+> 13 |     </li>
+     |      ^^^^
+  14 |     <li>
+  15 |       <a>Home</a>
+  16 |     </li>
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:09:30.575] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__db6decd7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:09:30.577] Server  ERROR    ⨯ ReferenceError: link is not defined
+[01:09:31.244] Browser ERROR   uncaughtError: ReferenceError: link is not defined
+[01:09:32.338] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:09:32.922] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:10:51.246] Browser ERROR   uncaughtError: Error: Failed prop type: The prop `href` expects a `string` or `object` in `<Link>`, but got `undefined` instead.
+Open your browser's console to view the Component stack trace.
+[01:11:01.249] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:69:23
+Parsing ecmascript source code failed
+  67 |       </div>
+  68 |       <div className="navbar-end">
+> 69 |         <Link href={} className="btn">Login</Link>
+     |                       ^^^^^^^^^
+  70 |       </div>
+  71 |     </div>
+  72 |   );
+
+Expected '</', got 'className'
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:11:03.358] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:11:12.204] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:12:02.629] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:02.732] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:12:03.417] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:03.530] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:12:03.771] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:03.841] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:12:03.969] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:04.033] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:12:04.153] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:04.266] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:13:03.624] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:13:03.744] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:10.430] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:10.544] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:11.052] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:11.089] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:11.208] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:11.268] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:11.392] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:11.440] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:11.708] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:11.708] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:11.964] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:12.079] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:12.302] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:12.406] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:12.661] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:12.729] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:12.879] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:12.938] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:19:13.054] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:19:13.170] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:21:07.495] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:07.612] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:21:08.287] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:08.392] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:21:25.736] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:25.842] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:21:26.170] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:26.206] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:21:26.351] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:21:26.458] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:24:07.243] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[01:25:34.886] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:25:35.006] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:27:51.238] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:67:21
+Parsing ecmascript source code failed
+  65 |           Login
+  66 |         </Link>
+> 67 |         <Link href="" className="btn btn-sm bg-red-300">
+     |                     ^^^^^^^^^^^^^
+  68 |           Register
+  69 |         </Link>
+  70 |       </div>
+
+Expected '</', got 'string literal ( className=, " className=")'
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:27:52.475] Server  LOG      ✓ Compiled in 76ms
+[01:28:11.789] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:28:11.789] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:31:11.262] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:64:59
+Parsing ecmascript source code failed
+  62 |
+  63 |       <div className="navbar-end flex gap-3">
+> 64 |         <Link href="" className="btn btn-sm me-2" style={}>
+     |                                                           ^
+  65 |           Login
+  66 |         </Link>
+  67 |
+
+Expression expected
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:31:11.263] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:66:10
+Parsing ecmascript source code failed
+  64 |         <Link href="" className="btn btn-sm me-2" style={}>
+  65 |           Login
+> 66 |         </Link>
+     |          ^^^^^^
+  67 |
+  68 |         <Link href="" className="btn btn-sm">
+  69 |           Register
+
+Unterminated regexp literal
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:31:14.060] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__db6decd7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:31:14.066] Server  ERROR    ⨯ ReferenceError: mar is not defined
+[01:31:15.266] Browser ERROR   uncaughtError: ReferenceError: mar is not defined
+[01:31:15.920] Server  LOG      ✓ Compiled in 64ms
+[01:31:16.077] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__db6decd7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:31:16.077] Server  ERROR    ⨯ ReferenceError: margin is not defined
+[01:31:17.728] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:17.728] Browser ERROR   uncaughtError: ReferenceError: margin is not defined
+[01:31:19.257] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:64:51
+Parsing ecmascript source code failed
+  62 |
+  63 |       <div className="navbar-end flex gap-3">
+> 64 |         <Link href="" className="btn btn-sm me-2" }>
+     |                                                   ^
+  65 |           Login
+  66 |         </Link>
+  67 |
+
+Expected '</', got '}'
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:31:21.493] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:31:21.774] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:32:32.943] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:33.061] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:32:44.319] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:44.435] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:32:44.952] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:45.060] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:32:45.181] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:45.253] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:32:45.435] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:45.435] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:32:45.582] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:32:45.688] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:34:49.204] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__db6decd7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:34:49.204] Server  ERROR    ⨯ ReferenceError: links is not defined
+[01:34:49.583] Browser ERROR   uncaughtError: ReferenceError: links is not defined
+[01:34:55.021] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:35:22.170] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[01:36:40.206] Server  LOG      ✓ Compiled in 414ms
+[01:36:44.239] Server  LOG      ✓ Compiled in 120ms
+[01:37:57.237] Browser ERROR   ./src/Components/Navbar/Navbar.jsx:86:6
+Parsing ecmascript source code failed
+  84 | export default Navbar;
+  85 |
+> 86 | bg-[#232536] text-white
+     |      ^^^^^^
+
+Expected ident
+
+Import trace:
+  Server Component:
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+[01:39:36.720] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__db6decd7._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:39:36.721] Server  ERROR    ⨯ ReferenceError: FaBars is not defined
+[01:39:37.248] Browser ERROR   uncaughtError: ReferenceError: FaBars is not defined
+[01:39:49.647] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:39:52.949] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
