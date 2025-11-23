@@ -286,6 +286,48 @@ const __TURBOPACK__default__export__ = {
     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAABAElEQVR42hXJ3U6CYACH8dd56HJ1BeWq5QykD74EJrwgClaAtWIRNKWcdpC1VgddRSddD9wHF/Ke/qPf9hw9pFkTVZkmr3mx/tyw1ceGpcunkhP69P+RHs/TOE0rY+JifBMhuI9hjl34s1m1u9+hRLOdkj8RwfMSFN3ANIzQPxNhuB60kVsQx/OZrJuI5ytkzwk8X4PlXeAuX8MJbxnxgmsmDzS8vH0hWySwqQRjaMG9jGB6ASOSqhW9Yw5Tx0H+OEecLSDLCgRRQZcTSrLVbtORbVa/30s8hBOIAx3c6XmdWLVaLUpqze7BHv15T8orqjLbGrLO4VHR3t6hpNFo/gEIUmKdms0MjAAAAABJRU5ErkJggg=="
 };
 }),
+"[project]/src/assets/u1.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/u1.4f935d61.png");}),
+"[project]/src/assets/u1.png.mjs { IMAGE => \"[project]/src/assets/u1.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$u1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/u1.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$u1$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 248,
+    height: 189,
+    blurWidth: 8,
+    blurHeight: 6,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAA0UlEQVR42gHGADn/AI6jwP6RpML/iJ+//5Omwv+TpsP/nq3G/6ezx/+vuMf+AKS1zv+lt9D/pLbQ/6u60v+mt9H/qbjQ/6izyP+qr73/AK25x/+0wtL/tsXV/7TE1f+mqbT/nI6P/4NpYv9sSj//AJN9Yv+ThHL/moh3/6KKev9/Y1T/cmdf/4N1av9sRC//AKF/WP+gg2H/pIps/6mOcf9gV03/aWdg/4WAdP+Rf2r/AMGeev3Co4H+v6aJ/reghP6XhW7+jYBu/p+Sfv6om4f9eweEm+HE0V0AAAAASUVORK5CYII="
+};
+}),
+"[project]/src/assets/u2.png (static in ecmascript, tag client)", ((__turbopack_context__) => {
+
+__turbopack_context__.v("/_next/static/media/u2.692d57e0.png");}),
+"[project]/src/assets/u2.png.mjs { IMAGE => \"[project]/src/assets/u2.png (static in ecmascript, tag client)\" } [app-rsc] (structured image object with data url, ecmascript)", ((__turbopack_context__) => {
+"use strict";
+
+__turbopack_context__.s([
+    "default",
+    ()=>__TURBOPACK__default__export__
+]);
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$u2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__ = __turbopack_context__.i("[project]/src/assets/u2.png (static in ecmascript, tag client)");
+;
+const __TURBOPACK__default__export__ = {
+    src: __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$u2$2e$png__$28$static__in__ecmascript$2c$__tag__client$29$__["default"],
+    width: 248,
+    height: 189,
+    blurWidth: 8,
+    blurHeight: 6,
+    blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAGCAYAAAD+Bd/7AAAA0UlEQVR42gHGADn/AFNaTv5pbFv/o5+K/9XMt/+dlHn/WVtG/yEuKP8LGhz+ADQ+Nf9LTz3/Xlk//7agd//Ovpz/q6CD/29tWf9ERjX/AEpPPf9RVUb/hX5t/8y8ov/z6NT/6dvE/7yzn/9sZkb/AEpOTP9CSEz/WlhY/41/bv+3ooj/jn9y/1tXU/9NTUz/AE1TVP9FSUv/RkZG/09KQ/9OSD//LTAy/ykvOP9pbHD/ACItMv1DSkn+XmBc/mdmYP5fX1r+S1BQ/kBJTP4xPkT9C5VoutiyNVIAAAAASUVORK5CYII="
+};
+}),
 "[project]/src/assets/assets.js [app-rsc] (ecmascript)", ((__turbopack_context__) => {
 "use strict";
 
@@ -308,11 +350,11 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c1$2e$png$2
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c2.png.mjs { IMAGE => "[project]/src/assets/c2.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c3$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c3$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c3.png.mjs { IMAGE => "[project]/src/assets/c3.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
 var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$c4$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$c4$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/c4.png.mjs { IMAGE => "[project]/src/assets/c4.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
-(()=>{
-    const e = new Error("Cannot find module './'");
-    e.code = 'MODULE_NOT_FOUND';
-    throw e;
-})();
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$u1$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$u1$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/u1.png.mjs { IMAGE => "[project]/src/assets/u1.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+var __TURBOPACK__imported__module__$5b$project$5d2f$src$2f$assets$2f$u2$2e$png$2e$mjs__$7b$__IMAGE__$3d3e$__$225b$project$5d2f$src$2f$assets$2f$u2$2e$png__$28$static__in__ecmascript$2c$__tag__client$2922$__$7d$__$5b$app$2d$rsc$5d$__$28$structured__image__object__with__data__url$2c$__ecmascript$29$__ = __turbopack_context__.i('[project]/src/assets/u2.png.mjs { IMAGE => "[project]/src/assets/u2.png (static in ecmascript, tag client)" } [app-rsc] (structured image object with data url, ecmascript)');
+;
+;
+;
 ;
 ;
 ;
@@ -645,4 +687,4 @@ function RootLayout({ children }) {
 }),
 ];
 
-//# sourceMappingURL=%5Broot-of-the-server%5D__80c334b7._.js.map
+//# sourceMappingURL=%5Broot-of-the-server%5D__0e315c4f._.js.map

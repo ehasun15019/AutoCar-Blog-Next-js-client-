@@ -176,3 +176,483 @@ See more info: https://nextjs.org/docs/messages/next-image-unconfigured-host
 [00:23:36.234] Server  LOG      ✓ Compiled in 57ms
 [00:23:43.808] Server  LOG      ✓ Compiled in 83ms
 [00:23:46.138] Server  LOG      ✓ Compiled in 81ms
+[00:37:51.705] Browser ERROR   ./src/app/page.js:14:5
+Parsing ecmascript source code failed
+  12 |       <Testimonial />
+  13 |       <Up
+> 14 |     </div>
+     |     ^
+  15 |   );
+  16 | }
+  17 |
+
+Expression expected
+[00:37:51.705] Browser ERROR   ./src/app/page.js:14:6
+Parsing ecmascript source code failed
+  12 |       <Testimonial />
+  13 |       <Up
+> 14 |     </div>
+     |      ^^^^^
+  15 |   );
+  16 | }
+  17 |
+
+Unterminated regexp literal
+[00:37:55.373] Server  LOG      ✓ Compiled in 70ms
+[00:39:13.699] Browser ERROR   ./src/assets/assets.js:16:1
+Parsing ecmascript source code failed
+  14 | import 
+  15 |
+> 16 | export const assets = {
+     | ^^^^^^
+  17 |     logo,
+  18 |     HomeHero,
+  19 |
+
+Expected 'from', got 'export'
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:39:23.016] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:39:23.017] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:39:23.019] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:39:23.020] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:39:23.021] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:39:23.023] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:39:23.025] Server  ERROR    ⨯ ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[00:39:23.707] Browser ERROR   ./src/assets/assets.js:14:1
+Module not found: Can't resolve './'
+  12 | import c4 from './c4.png'
+  13 |
+> 14 | import u1 from './'
+     | ^^^^^^^^^^^^^^^^^^^
+  15 |
+  16 | export const assets = {
+  17 |     logo,
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+
+https://nextjs.org/docs/messages/module-not-found
+[00:39:29.159] Server  LOG      ✓ Compiled in 152ms
+[00:39:33.700] Browser ERROR   ./src/assets/assets.js:17:8
+Ecmascript file had an error
+  15 | import u1 from './u1.png'
+  16 | import u1 from './u1.png'
+> 17 | import u1 from './u1.png'
+     |        ^^
+  18 |
+  19 | export const assets = {
+  20 |     logo,
+
+the name `u1` is defined multiple times
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:39:37.695] Browser ERROR   ./src/assets/assets.js:17:8
+Ecmascript file had an error
+  15 | import u2 from './u2.png'
+  16 | import u1 from './u1.png'
+> 17 | import u1 from './u1.png'
+     |        ^^
+  18 |
+  19 | export const assets = {
+  20 |     logo,
+
+the name `u1` is defined multiple times
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:39:41.708] Browser ERROR   ./src/assets/assets.js:17:8
+Ecmascript file had an error
+  15 | import u2 from './u2.png'
+  16 | import u3 from './u3.png'
+> 17 | import u1 from './u1.png'
+     |        ^^
+  18 |
+  19 | export const assets = {
+  20 |     logo,
+
+the name `u1` is defined multiple times
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:39:45.484] Server  LOG      ✓ Compiled in 104ms
+[00:40:08.703] Browser ERROR   ./src/assets/assets.js:30:5
+Parsing ecmascript source code failed
+  28 |
+  29 |     // upComing feature
+> 30 |     u1
+     |     ^^
+  31 | }
+  32 |
+  33 | // new technology array  
+
+Unexpected token `u1`. Expected ... , *,  (, [, :, , ?, = or an identifier
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:40:09.704] Browser ERROR   ./src/assets/assets.js:30:5
+Parsing ecmascript source code failed
+  28 |
+  29 |     // upComing feature
+> 30 |     u1,
+     |     ^^
+  31 | }
+  32 |
+  33 | // new technology array  
+
+Unexpected token `u1`. Expected ... , *,  (, [, :, , ?, = or an identifier
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:40:12.694] Browser ERROR   ./src/assets/assets.js:30:5
+Parsing ecmascript source code failed
+  28 |
+  29 |     // upComing feature
+> 30 |     u1, 
+     |     ^^
+  31 | }
+  32 |
+  33 | // new technology array  
+
+Unexpected token `u1`. Expected ... , *,  (, [, :, , ?, = or an identifier
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:40:54.706] Browser ERROR   ./src/assets/assets.js:104:13
+Parsing ecmascript source code failed
+  102 |
+  103 | // up coming feature
+> 104 | export const 
+      |             ^
+  105 |
+  106 |
+  107 |
+
+Unexpected token `<eof>`. Expected yield, an identifier, [ or {
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:40:56.706] Browser ERROR   ./src/assets/assets.js:104:14
+Parsing ecmascript source code failed
+  102 |
+  103 | // up coming feature
+> 104 | export const up
+      |              ^^
+  105 |
+  106 |
+  107 |
+
+'const' declarations must be initialized
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:50:26.597] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__552f83e0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:50:26.599] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
+[00:50:27.487] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
+[00:50:27.670] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__552f83e0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:50:27.671] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
+[00:50:28.852] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:29.707] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
+[00:50:42.656] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__552f83e0._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:50:42.657] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
+[00:50:42.918] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:43.708] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
+[00:50:45.282] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:50:45.283] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
+[00:50:45.553] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:46.697] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
+[00:50:52.233] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:50:52.233] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
+[00:50:52.482] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:50:52.693] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
+[00:51:00.707] Browser ERROR   ./src/assets/assets.js:105:15
+Parsing ecmascript source code failed
+  103 | // up coming feature
+  104 | // up coming feature
+> 105 | export const  <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 justify-items-center gap-3">
+      |               ^
+  106 |         {allCategories.map((item) => {
+  107 |           return (
+  108 |             <div key={item.id} className="">
+
+Unexpected token `<`. Expected yield, an identifier, [ or {
+
+Import traces:
+  #1 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/Navbar/Navbar.jsx
+    ./src/app/layout.js
+
+  #2 [Server Component]:
+    ./src/assets/assets.js
+    ./src/Components/New-Technology/NewTechnology.jsx
+    ./src/app/page.js
+[00:51:01.386] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:51:01.386] Server  ERROR    ⨯ ReferenceError: allCategories is not defined
+[00:51:01.542] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:02.692] Browser ERROR   uncaughtError: ReferenceError: allCategories is not defined
+[00:51:06.833] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__4a236d0c._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:51:06.833] Server  ERROR    ⨯ ReferenceError: upComing is not defined
+[00:51:07.115] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:07.703] Browser ERROR   uncaughtError: ReferenceError: upComing is not defined
+[00:51:11.556] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:51:11.709] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:51:11.709] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters

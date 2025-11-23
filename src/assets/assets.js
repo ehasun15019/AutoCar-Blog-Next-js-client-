@@ -11,6 +11,11 @@ import c2 from './c2.png'
 import c3 from './c3.png'
 import c4 from './c4.png'
 
+import u1 from './u1.png'
+import u2 from './u2.png'
+import u3 from './u3.png'
+import u4 from './u4.png'
+
 export const assets = {
     logo,
     HomeHero,
@@ -19,7 +24,10 @@ export const assets = {
     t1, t2, t3, t4, t_profile,
 
     // all categories
-    c1, c2, c3, c4
+    c1, c2, c3, c4, 
+
+    // upComing feature
+    u1, u2, u3, u4,
 }
 
 // new technology array  
@@ -90,6 +98,37 @@ export const allCategories = [
       "Useful driving techniques to improve safety, fuel economy, and overall road awareness—ideal for both new and experienced drivers."
   }
 ];
+
+
+// up coming feature
+// up coming feature
+export const upComing = [
+  {
+    id: 1,
+    img: u1,
+    title: "Autonomous Driving",
+    description: "AI-powered autonomous driving for safer trips.",
+  },
+  {
+    id: 2,
+    img: u2,
+    title: "Electric Boost",
+    description: "Enhanced electric motor for longer range and faster acceleration.",
+  },
+  {
+    id: 3,
+    img: u3,
+    title: "Smart Dashboard",
+    description: "Next-gen dashboard with AR navigation and AI assistant.",
+  },
+  {
+    id: 4,
+    img: u4,
+    title: "Advanced Safety",
+    description: "Collision prevention and 360° monitoring system.",
+  }
+];
+
 
 
 
