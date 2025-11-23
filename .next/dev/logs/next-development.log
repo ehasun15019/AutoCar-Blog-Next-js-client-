@@ -656,3 +656,88 @@ Import traces:
 [00:51:11.709] Browser WARN    Image with src "/_next/static/media/logo.d986cebd.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [00:51:11.709] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[00:56:03.708] Browser ERROR   ./src/app/layout.js:29:7
+Parsing ecmascript source code failed
+  27 |         {children}
+  28 |         <
+> 29 |       </body>
+     |       ^
+  30 |     </html>
+  31 |   );
+  32 | }
+
+Expression expected
+[00:56:03.708] Browser ERROR   ./src/app/layout.js:29:8
+Parsing ecmascript source code failed
+  27 |         {children}
+  28 |         <
+> 29 |       </body>
+     |        ^^^^^^
+  30 |     </html>
+  31 |   );
+  32 | }
+
+Unterminated regexp literal
+[00:56:06.694] Browser ERROR   ./src/app/layout.js:29:7
+Parsing ecmascript source code failed
+  27 |         {children}
+  28 |         <Footer
+> 29 |       </body>
+     |       ^
+  30 |     </html>
+  31 |   );
+  32 | }
+
+Expression expected
+[00:56:06.694] Browser ERROR   ./src/app/layout.js:29:8
+Parsing ecmascript source code failed
+  27 |         {children}
+  28 |         <Footer
+> 29 |       </body>
+     |        ^^^^^^
+  30 |     </html>
+  31 |   );
+  32 | }
+
+Unterminated regexp literal
+[00:56:09.552] Server  LOG      ✓ Compiled in 161ms
+[01:05:49.308] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\.next\dev\server\chunks\ssr\[root-of-the-server]__f8c7456d._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:05:49.309] Server  ERROR    ⨯ ReferenceError: FaLocationArrow is not defined
+[01:05:49.693] Browser ERROR   uncaughtError: ReferenceError: FaLocationArrow is not defined
+[01:05:53.340] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:05:53.703] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:11:58.036] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:11:58.045] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:11:58.411] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:12:40.222] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:12:40.223] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:12:40.549] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:41.125] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:12:41.295] Server  ERROR   F:\Programing-Hero-EJP\Blog\client\node_modules\next\dist\compiled\next-server\app-page-turbo.runtime.dev.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[01:12:41.295] Server  ERROR    ⨯ Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:12:41.561] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:42.710] Browser ERROR   uncaughtError: Error: Event handlers cannot be passed to Client Component props.
+  <button className=... onClick={function onClick} children=...>
+                                ^^^^^^^^^^^^^^^^^^
+If you need interactivity, consider converting part of this to a Client Component.
+[01:12:46.030] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:12:46.050] Server  LOG      ✓ Compiled in 629ms
+[01:12:46.148] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[01:12:46.272] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[01:12:46.630] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[01:13:55.748] Server  LOG      ✓ Compiled in 214ms
