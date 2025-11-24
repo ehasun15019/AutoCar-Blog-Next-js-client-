@@ -1730,6 +1730,34 @@
   }
 
   @layer daisyui.l1.l2.l3 {
+    .footer {
+      grid-auto-flow: row;
+      place-items: start;
+      gap: 2.5rem 1rem;
+      width: 100%;
+      font-size: .875rem;
+      line-height: 1.25rem;
+      display: grid;
+    }
+
+    .footer > * {
+      place-items: start;
+      gap: .5rem;
+      display: grid;
+    }
+
+    .footer.footer-center {
+      text-align: center;
+      grid-auto-flow: column dense;
+      place-items: center;
+    }
+
+    .footer.footer-center > * {
+      place-items: center;
+    }
+  }
+
+  @layer daisyui.l1.l2.l3 {
     .navbar-end {
       justify-content: flex-end;
       align-items: center;
@@ -1834,10 +1862,6 @@
 
   .w-60 {
     width: calc(var(--spacing) * 60);
-  }
-
-  .w-\[120px\] {
-    width: 120px;
   }
 
   .w-\[300px\] {

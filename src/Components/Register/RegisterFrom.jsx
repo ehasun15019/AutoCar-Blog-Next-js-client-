@@ -1,14 +1,78 @@
+"use client";
+
 import Link from "next/link";
-import React from "react";
+import React, { use } from "react";
 import { FaRegUser } from "react-icons/fa";
 import { MdOutlineMailOutline } from "react-icons/md";
 import { TbLockPassword } from "react-icons/tb";
 import { FcGoogle } from "react-icons/fc";
+import Swal from "sweetalert2";
+import { AuthContext } from "@/Context/AuthContext";
+import { GoogleAuthProvider } from "firebase/auth";
 
 const RegisterFrom = () => {
+  const { createUserFunction, popUp } = use(AuthContext);
+
+  // handle Register
+  const handleRegister = (e) => {
+    e.preventDefault();
+
+    const target = e.target;
+    const name = target.name.value;
+    const email = target.email.value;
+    const password = target.password.value;
+
+    console.log(name, email, password);
+
+    createUserFunction(email, password)
+      .then((getUser) => {
+        console.log(getUser.user);
+
+        Swal.fire({
+          title: "Registered Successfully",
+          icon: "success",
+          draggable: true,
+        });
+
+        target.reset();
+      })
+      .catch((err) => {
+        Swal.fire({
+          icon: "error",
+          title: err.message,
+          text: "Something went wrong!",
+        });
+      });
+  };
+
+  // register with google
+  const provider = new GoogleAuthProvider();
+
+  const handleGoogleRegister = () => {
+    popUp(provider)
+    .then((newUser) => {
+        console.log(newUser.user)
+         Swal.fire({
+          title: "Registered With Google Successfully",
+          icon: "success",
+          draggable: true,
+        });
+    })
+    .catch((err) => {
+        Swal.fire({
+          icon: "error",
+          title: err.message,
+          text: "Something went wrong!",
+        });
+    });
+  }
+
   return (
     <div>
-      <form className="bg-white shadow-lg px-6 py-5 rounded">
+      <form
+        className="bg-white shadow-lg px-6 py-5 rounded"
+        onSubmit={handleRegister}
+      >
         <h3 className="text-2xl font-bold text-center mb-3">Register Now</h3>
         <fieldset className="fieldset w-[300px]">
           {/* name */}
@@ -63,7 +127,7 @@ const RegisterFrom = () => {
           </div>
 
           <div className="flex justify-center">
-            <FcGoogle size={30} className="text-center cursor-pointer"/>
+            <FcGoogle size={30} className="text-center cursor-pointer" onClick={handleGoogleRegister} />
           </div>
         </fieldset>
       </form>
