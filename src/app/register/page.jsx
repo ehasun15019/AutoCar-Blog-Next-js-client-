@@ -5,9 +5,14 @@ import Image from "next/image";
 export default function register() {
   return (
     <div className="py-8 px-4 sm:px-10 lg:px-20">
-      <div className="flex items-center gap-10 justify-center">
+      <div className="flex flex-col md:flex-row items-center gap-10 justify-center">
         <RegisterFrom />
-        <Image src={assets.register} alt="register image" width={420} />
+        <Image
+          src={assets.register}
+          alt="register image"
+          width={420}
+          className="hidden md:block"
+        />
       </div>
     </div>
   );

@@ -37,7 +37,6 @@ const RegisterFrom = ()=>{
         const name = target.name.value;
         const email = target.email.value;
         const password = target.password.value;
-        console.log(name, email, password);
         createUserFunction(email, password).then((getUser)=>{
             console.log(getUser.user);
             __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$sweetalert2$2f$dist$2f$sweetalert2$2e$esm$2e$all$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["default"].fire({
@@ -73,8 +72,9 @@ const RegisterFrom = ()=>{
         });
     };
     return /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+        className: "mx-6",
         children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("form", {
-            className: "bg-white shadow-lg px-6 py-5 rounded",
+            className: "bg-white shadow-lg px-6 py-5 rounded w-full",
             onSubmit: handleRegister,
             children: [
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("h3", {
@@ -82,7 +82,7 @@ const RegisterFrom = ()=>{
                     children: "Register Now"
                 }, void 0, false, {
                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                    lineNumber: 76,
+                    lineNumber: 74,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0)),
                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("fieldset", {
@@ -93,7 +93,7 @@ const RegisterFrom = ()=>{
                             children: "Name"
                         }, void 0, false, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 79,
+                            lineNumber: 77,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -103,7 +103,7 @@ const RegisterFrom = ()=>{
                                     className: "text-primary"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 81,
+                                    lineNumber: 79,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -113,13 +113,13 @@ const RegisterFrom = ()=>{
                                     name: "name"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 82,
+                                    lineNumber: 80,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 80,
+                            lineNumber: 78,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -127,7 +127,7 @@ const RegisterFrom = ()=>{
                             children: "Email"
                         }, void 0, false, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 91,
+                            lineNumber: 89,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -137,7 +137,7 @@ const RegisterFrom = ()=>{
                                     className: "text-primary"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 93,
+                                    lineNumber: 91,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -147,13 +147,13 @@ const RegisterFrom = ()=>{
                                     name: "email"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 94,
+                                    lineNumber: 92,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 92,
+                            lineNumber: 90,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("label", {
@@ -161,7 +161,7 @@ const RegisterFrom = ()=>{
                             children: "Password"
                         }, void 0, false, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 103,
+                            lineNumber: 101,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -171,7 +171,7 @@ const RegisterFrom = ()=>{
                                     className: "text-primary"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 105,
+                                    lineNumber: 103,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("input", {
@@ -181,13 +181,13 @@ const RegisterFrom = ()=>{
                                     name: "password"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 106,
+                                    lineNumber: 104,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 104,
+                            lineNumber: 102,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -200,13 +200,13 @@ const RegisterFrom = ()=>{
                                     children: "Login"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 116,
+                                    lineNumber: 114,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 114,
+                            lineNumber: 112,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("button", {
@@ -214,7 +214,7 @@ const RegisterFrom = ()=>{
                             children: "Register"
                         }, void 0, false, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 121,
+                            lineNumber: 119,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -224,7 +224,7 @@ const RegisterFrom = ()=>{
                                     className: "flex-1 border-t border-gray-300"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 124,
+                                    lineNumber: 122,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -232,20 +232,20 @@ const RegisterFrom = ()=>{
                                     children: "You can Connect with"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 125,
+                                    lineNumber: 123,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0)),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                     className: "flex-1 border-t border-gray-300"
                                 }, void 0, false, {
                                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                    lineNumber: 126,
+                                    lineNumber: 124,
                                     columnNumber: 13
                                 }, ("TURBOPACK compile-time value", void 0))
                             ]
                         }, void 0, true, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 123,
+                            lineNumber: 121,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0)),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$ssr$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$ssr$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -256,29 +256,29 @@ const RegisterFrom = ()=>{
                                 onClick: handleGoogleRegister
                             }, void 0, false, {
                                 fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                                lineNumber: 130,
+                                lineNumber: 128,
                                 columnNumber: 13
                             }, ("TURBOPACK compile-time value", void 0))
                         }, void 0, false, {
                             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                            lineNumber: 129,
+                            lineNumber: 127,
                             columnNumber: 11
                         }, ("TURBOPACK compile-time value", void 0))
                     ]
                 }, void 0, true, {
                     fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-                    lineNumber: 77,
+                    lineNumber: 75,
                     columnNumber: 9
                 }, ("TURBOPACK compile-time value", void 0))
             ]
         }, void 0, true, {
             fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-            lineNumber: 72,
+            lineNumber: 70,
             columnNumber: 7
         }, ("TURBOPACK compile-time value", void 0))
     }, void 0, false, {
         fileName: "[project]/src/Components/Register/RegisterFrom.jsx",
-        lineNumber: 71,
+        lineNumber: 69,
         columnNumber: 5
     }, ("TURBOPACK compile-time value", void 0));
 };

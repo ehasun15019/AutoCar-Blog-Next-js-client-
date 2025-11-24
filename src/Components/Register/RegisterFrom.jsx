@@ -22,8 +22,6 @@ const RegisterFrom = () => {
     const email = target.email.value;
     const password = target.password.value;
 
-    console.log(name, email, password);
-
     createUserFunction(email, password)
       .then((getUser) => {
         console.log(getUser.user);
@@ -68,9 +66,9 @@ const RegisterFrom = () => {
   }
 
   return (
-    <div>
+    <div className="mx-6">
       <form
-        className="bg-white shadow-lg px-6 py-5 rounded"
+        className="bg-white shadow-lg px-6 py-5 rounded w-full"
         onSubmit={handleRegister}
       >
         <h3 className="text-2xl font-bold text-center mb-3">Register Now</h3>
