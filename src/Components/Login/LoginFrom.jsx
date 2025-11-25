@@ -3,6 +3,7 @@
 import { AuthContext } from "@/Context/AuthContext";
 import { GoogleAuthProvider } from "firebase/auth";
 import Link from "next/link";
+import { useSearchParams, useRouter } from "next/navigation";
 import React, { use } from "react";
 import { FcGoogle } from "react-icons/fc";
 import { MdOutlineMailOutline } from "react-icons/md";
@@ -11,6 +12,9 @@ import Swal from "sweetalert2";
 
 const LoginFrom = () => {
   const { popUp, loginWithEmailPassword } = use(AuthContext);
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const redirectPath = searchParams.get("redirect") || "/";
 
   // login with email, password
   const handleLogin = (e) => {
@@ -25,9 +29,9 @@ const LoginFrom = () => {
         Swal.fire({
           title: "Login Successfully",
           icon: "success",
-          draggable: true,
         });
         target.reset();
+        router.push(redirectPath);
       })
       .catch((err) => {
         Swal.fire({
@@ -50,6 +54,7 @@ const LoginFrom = () => {
           icon: "success",
           draggable: true,
         });
+        router.push(redirectPath);
       })
       .catch((err) => {
         Swal.fire({
@@ -100,7 +105,12 @@ const LoginFrom = () => {
               </Link>
             </p>
 
-            <Link href="/forgot-password" className="text-primary cursor-pointer hover:underline">Forgot Password</Link>
+            <Link
+              href="/forgot-password"
+              className="text-primary cursor-pointer hover:underline"
+            >
+              Forgot Password
+            </Link>
           </div>
 
           <button className="btn btn-primary text-black mt-4">Login</button>

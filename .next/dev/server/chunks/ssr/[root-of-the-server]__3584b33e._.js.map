@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///F:/Programing-Hero-EJP/Blog/client/src/app/sell-car/page.jsx"],"sourcesContent":["const sellCar = () => {\r\n    return(\r\n        <div>\r\n            <p>hello</p>\r\n        </div>\r\n    )\r\n};\r\n\r\nexport default function pageWrapper() {\r\n    return(\r\n        <div>\r\n            <p>sell car</p>\r\n        </div>\r\n    )\r\n}"],"names":[],"mappings":";;;;;;AAAA,MAAM,UAAU;IACZ,qBACI,8OAAC;kBACG,cAAA,8OAAC;sBAAE;;;;;;;;;;;AAGf;AAEe,SAAS;IACpB,qBACI,8OAAC;kBACG,cAAA,8OAAC;sBAAE;;;;;;;;;;;AAGf"}}]
+}

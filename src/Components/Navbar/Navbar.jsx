@@ -11,19 +11,23 @@ import Swal from "sweetalert2";
 const links = (
   <>
     <li>
-      <a>Home</a>
+      <Link href="/">Home</Link>
     </li>
 
     <li>
-      <a>About</a>
+      <Link href="">Blogs</Link>
     </li>
 
     <li>
-      <a>Blogs</a>
+      <Link href="">About</Link>
     </li>
 
     <li>
-      <a>Contact Us</a>
+      <Link href="/sell-car">Sell a car</Link>
+    </li>
+
+    <li>
+      <Link href="">Contact Us</Link>
     </li>
   </>
 );
@@ -75,7 +79,10 @@ const Navbar = () => {
       <div className="navbar-end">
         <div className="flex gap-3">
           {user ? (
-            <button className="btn btn-sm border-none text-black" onClick={handleSignOut}>
+            <button
+              className="btn btn-sm border-none text-black"
+              onClick={handleSignOut}
+            >
               log out
             </button>
           ) : (

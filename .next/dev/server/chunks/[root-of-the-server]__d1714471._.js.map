@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":["file:///F:/Programing-Hero-EJP/Blog/client/src/proxy.js"],"sourcesContent":["import { NextResponse } from \"next/server\";\r\n\r\nexport function proxy(request) {\r\n  const token = request.cookies.get(\"accessToken\")?.value;\r\n  const url = request.nextUrl.clone();\r\n\r\n  if (!token && url.pathname === \"/sell-car\") {\r\n    // store original page in query param\r\n    url.pathname = \"/login\";\r\n    url.searchParams.set(\"redirect\", \"/sell-car\");\r\n    return NextResponse.redirect(url);\r\n  }\r\n\r\n  return NextResponse.next();\r\n}\r\n\r\nexport const config = {\r\n  matcher: \"/sell-car\",\r\n};\r\n"],"names":[],"mappings":";;;;;;AAAA;;AAEO,SAAS,MAAM,OAAO;IAC3B,MAAM,QAAQ,QAAQ,OAAO,CAAC,GAAG,CAAC,gBAAgB;IAClD,MAAM,MAAM,QAAQ,OAAO,CAAC,KAAK;IAEjC,IAAI,CAAC,SAAS,IAAI,QAAQ,KAAK,aAAa;QAC1C,qCAAqC;QACrC,IAAI,QAAQ,GAAG;QACf,IAAI,YAAY,CAAC,GAAG,CAAC,YAAY;QACjC,OAAO,8IAAY,CAAC,QAAQ,CAAC;IAC/B;IAEA,OAAO,8IAAY,CAAC,IAAI;AAC1B;AAEO,MAAM,SAAS;IACpB,SAAS;AACX"}}]
+}
