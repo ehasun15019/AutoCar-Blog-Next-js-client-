@@ -2,6 +2,7 @@ import logo from './logo.png'
 import HomeHero from "./home-hero.png"
 import register from "./register_img.png"
 import login from "./login_img.png"
+import about from "./about.webp"
 
 import t1 from './t1.png'
 import t2 from './t2.png'
@@ -22,7 +23,7 @@ import u4 from './u4.png'
 export const assets = {
     logo,
     HomeHero,
-    register, login,
+    register, login, about,
 
     // new technology
     t1, t2, t3, t4, t_profile,

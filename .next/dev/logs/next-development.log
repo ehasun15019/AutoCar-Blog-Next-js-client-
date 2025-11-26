@@ -3043,3 +3043,1353 @@ Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
 [02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
 [02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
 [02:29:28.781] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:31:14.872] Server  LOG      ✓ Compiled in 238ms
+[02:33:42.567] Server  LOG      ✓ Compiled in 216ms
+[02:33:43.943] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[02:33:46.642] Server  WARN     ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[02:33:47.053] Server  LOG      ✓ Compiled in 88ms
+[02:33:47.415] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/hero-car.png" "received" null
+[02:33:47.426] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/alice.jpg" "received" null
+[02:33:47.513] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/bob.jpg" "received" null
+[02:33:47.515] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/charlie.jpg" "received" null
+[02:33:47.560] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/diana.jpg" "received" null
+[02:33:47.795] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:34:35.368] Browser WARN    Image with src "https://imgs.search.brave.com/rC3ssk-gvdwgBpPJ9PjOqrcj8jKzQMO86FuNM7v5eJg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvOTM3/NjY4L3BleGVscy1w/aG90by05Mzc2Njgu/anBlZz9hdXRvPWNv/bXByZXNzJmNzPXRp/bnlzcmdiJmRwcj0x/Jnc9NTAw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:35.368] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:35.368] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:35.368] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:35.368] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:34:37.560] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/hero-car.png" "received" null
+[02:34:37.561] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/alice.jpg" "received" null
+[02:34:37.561] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/bob.jpg" "received" null
+[02:34:37.562] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/charlie.jpg" "received" null
+[02:34:37.569] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/diana.jpg" "received" null
+[02:34:50.092] Server  LOG      ✓ Compiled in 60ms
+[02:34:51.096] Server  LOG      ✓ Compiled in 53ms
+[02:35:03.891] Server  LOG      ✓ Compiled in 58ms
+[02:35:10.018] Server  LOG      ✓ Compiled in 53ms
+[02:35:13.920] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/hero-car.png" "received" null
+[02:35:13.921] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/alice.jpg" "received" null
+[02:35:13.932] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/bob.jpg" "received" null
+[02:35:13.933] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/charlie.jpg" "received" null
+[02:35:13.933] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/diana.jpg" "received" null
+[02:38:22.127] Server  LOG      ✓ Compiled in 111ms
+[02:38:22.956] Browser ERROR   ./src/assets/assets.js:7:1
+Parsing ecmascript source code failed
+   5 | import 
+   6 |
+>  7 | import t1 from './t1.png'
+     | ^^^^^^
+   8 | import t2 from './t2.png'
+   9 | import t3 from './t3.png'
+  10 | import t4 from './t4.png'
+
+Expected 'from', got 'import'
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+[02:38:24.103] Server  LOG      ✓ Compiled in 52ms
+[02:38:24.950] Browser ERROR   ./src/assets/assets.js:7:1
+Parsing ecmascript source code failed
+   5 | import re
+   6 |
+>  7 | import t1 from './t1.png'
+     | ^^^^^^
+   8 | import t2 from './t2.png'
+   9 | import t3 from './t3.png'
+  10 | import t4 from './t4.png'
+
+Expected ',', got 'import'
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+[02:38:29.710] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/app/register/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.713] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/app/register/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.716] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/app/register/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.724] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/app/login/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.734] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/app/login/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.736] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/app/login/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.738] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.742] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.744] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.745] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.746] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.747] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.749] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.750] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.754] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.756] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.758] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.760] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.762] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.764] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.766] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.769] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.770] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.773] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.774] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.777] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.778] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.780] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.782] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.784] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.785] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.788] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.789] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Up-Coming/UpComing.jsx
+    ./src/app/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.790] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Up-Coming/UpComing.jsx
+    ./src/app/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.791] Server  ERROR    ⨯ ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+
+
+Import traces:
+  Server Component:
+    ./src/assets/assets.js
+    ./src/Components/Up-Coming/UpComing.jsx
+    ./src/app/page.jsx
+
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+
+
+[02:38:29.793] Server  LOG      ✓ Compiled in 130ms
+[02:38:29.942] Browser ERROR   ./src/assets/assets.js:5:1
+Module not found: Can't resolve './'
+  3 | import register from "./register_img.png"
+  4 | import login from "./login_img.png"
+> 5 | import about from "./"
+    | ^^^^^^^^^^^^^^^^^^^^^^
+  6 |
+  7 | import t1 from './t1.png'
+  8 | import t2 from './t2.png'
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+https://nextjs.org/docs/messages/module-not-found
+[02:38:35.090] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/alice.jpg" "received" null
+[02:38:35.093] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/hero-car.png" "received" null
+[02:38:35.214] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/bob.jpg" "received" null
+[02:38:35.244] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/charlie.jpg" "received" null
+[02:38:35.246] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/diana.jpg" "received" null
+[02:38:35.414] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:38:45.931] Server  LOG      ✓ Compiled in 50ms
+[02:38:46.953] Browser ERROR   ./src/assets/assets.js:29:5
+Parsing ecmascript source code failed
+  27 |
+  28 |     // new technology
+> 29 |     t1, t2, t3, t4, t_profile,
+     |     ^^
+  30 |
+  31 |     // all categories
+  32 |     c1, c2, c3, c4, 
+
+Unexpected token `t1`. Expected ... , *,  (, [, :, , ?, = or an identifier
+
+Import traces:
+  Client Component Browser:
+    ./src/assets/assets.js [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Client Component Browser]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+
+  Client Component SSR:
+    ./src/assets/assets.js [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Client Component SSR]
+    ./src/Components/Navbar/Navbar.jsx [Server Component]
+    ./src/app/layout.js [Server Component]
+[02:38:57.585] Server  LOG      ✓ Compiled in 154ms
+[02:39:08.997] Server  LOG      ✓ Compiled in 66ms
+[02:39:11.950] Server  LOG      ✓ Compiled in 69ms
+[02:39:16.473] Server  LOG      ✓ Compiled in 70ms
+[02:39:20.737] Server  LOG      ✓ Compiled in 59ms
+[02:39:38.619] Server  LOG      ✓ Compiled in 90ms
+[02:39:38.945] Browser WARN    Image with src "/_next/static/media/about.83f83436.webp" has either width or height modified, but not the other. If you use CSS to change the size of your image, also include the styles 'width: "auto"' or 'height: "auto"' to maintain the aspect ratio.
+[02:39:55.608] Server  LOG      ✓ Compiled in 68ms
+[02:41:07.659] Server  LOG      ✓ Compiled in 334ms
+[02:43:14.191] Server  LOG      ✓ Compiled in 176ms
+[02:43:43.162] Server  LOG      ✓ Compiled in 75ms
+[02:43:43.537] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/alice.jpg" "received" null
+[02:43:43.549] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/bob.jpg" "received" null
+[02:43:43.550] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/charlie.jpg" "received" null
+[02:43:43.598] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/diana.jpg" "received" null
+[02:43:47.418] Server  LOG      ✓ Compiled in 42ms
+[02:43:47.952] Browser ERROR   ./src/app/about/page.jsx:14:30
+Parsing ecmascript source code failed
+  12 |         <Ame
+  13 |
+> 14 |       {/* About Us Section */}
+     |                              ^
+  15 |       <section className="text-gray-800 space-y-6 md:space-y-10">
+  16 |         <h2 className="text-3xl md:text-5xl font-bold text-center">About Us</h2>
+  17 |         <p className="text-center max-w-3xl mx-auto text-lg md:text-xl">
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/about/page.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/about/page.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Server Component]
+[02:43:48.944] Browser ERROR   ./src/app/about/page.jsx:15:30
+Parsing ecmascript source code failed
+  13 |         <AmericanCarsCard
+  14 |
+> 15 |       {/* About Us Section */}
+     |                              ^
+  16 |       <section className="text-gray-800 space-y-6 md:space-y-10">
+  17 |         <h2 className="text-3xl md:text-5xl font-bold text-center">About Us</h2>
+  18 |         <p className="text-center max-w-3xl mx-auto text-lg md:text-xl">
+
+Expected '</', got '}'
+
+Import traces:
+  Client Component Browser:
+    ./src/app/about/page.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/about/page.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Server Component]
+[02:43:51.986] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/alice.jpg" "received" null
+[02:43:51.989] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/bob.jpg" "received" null
+[02:43:52.044] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/charlie.jpg" "received" null
+[02:43:52.094] Server  ERROR    ⨯ "The requested resource isn't a valid image for" "/team/diana.jpg" "received" null
+[02:44:26.392] Server  LOG      ✓ Compiled in 48ms
+[02:44:27.444] Server  LOG      ✓ Compiled in 42ms
+[02:44:27.949] Browser ERROR   ./src/Components/AmericansCard/American.jsx:9:21
+Parsing ecmascript source code failed
+   7 | export default function AmericanCarsCard() {
+   8 |   return (
+>  9 |     <div className= p-6 md:p-10 flex flex-col md:flex-row items-center gap-6 md:gap-10 w-full max-w-5xl mx-auto">
+     |                     ^
+  10 |       
+  11 |       {/* Text Content */}
+  12 |       <div className="flex-1 space-y-4">
+
+JSX value should be either an expression or a quoted JSX text
+
+Import traces:
+  Client Component Browser:
+    ./src/Components/AmericansCard/American.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/Components/AmericansCard/American.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Server Component]
+[02:44:29.778] Server  LOG      ✓ Compiled in 48ms
+[02:44:49.040] Server  LOG      ✓ Compiled in 47ms
+[02:44:50.898] Server  LOG      ✓ Compiled in 53ms
+[02:44:52.544] Server  LOG      ✓ Compiled in 42ms
+[02:45:27.185] Server  LOG      ✓ Compiled in 125ms
+[02:45:29.045] Server  LOG      ✓ Compiled in 65ms
+[02:45:30.120] Server  LOG      ✓ Compiled in 46ms
+[02:45:30.952] Browser ERROR   ./src/app/about/page.jsx:68:7
+Parsing ecmascript source code failed
+  66 |         </div> */}
+  67 |         <
+> 68 |       </section>
+     |       ^
+  69 |
+  70 |       {/* Call To Action */}
+  71 |       <section className="bg-secondary rounded-3xl text-white p-10 text-center shadow-xl hover:shadow-2xl transition">
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/about/page.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/about/page.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Server Component]
+[02:45:30.952] Browser ERROR   ./src/app/about/page.jsx:68:8
+Parsing ecmascript source code failed
+  66 |         </div> */}
+  67 |         <
+> 68 |       </section>
+     |        ^^^^^^^^^
+  69 |
+  70 |       {/* Call To Action */}
+  71 |       <section className="bg-secondary rounded-3xl text-white p-10 text-center shadow-xl hover:shadow-2xl transition">
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/about/page.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/about/page.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Server Component]
+[02:45:34.950] Browser ERROR   ./src/app/about/page.jsx:68:7
+Parsing ecmascript source code failed
+  66 |         </div> */}
+  67 |         <All
+> 68 |       </section>
+     |       ^
+  69 |
+  70 |       {/* Call To Action */}
+  71 |       <section className="bg-secondary rounded-3xl text-white p-10 text-center shadow-xl hover:shadow-2xl transition">
+
+Expression expected
+
+Import traces:
+  Client Component Browser:
+    ./src/app/about/page.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/about/page.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Server Component]
+[02:45:34.950] Browser ERROR   ./src/app/about/page.jsx:68:8
+Parsing ecmascript source code failed
+  66 |         </div> */}
+  67 |         <All
+> 68 |       </section>
+     |        ^^^^^^^^^
+  69 |
+  70 |       {/* Call To Action */}
+  71 |       <section className="bg-secondary rounded-3xl text-white p-10 text-center shadow-xl hover:shadow-2xl transition">
+
+Unterminated regexp literal
+
+Import traces:
+  Client Component Browser:
+    ./src/app/about/page.jsx [Client Component Browser]
+    ./src/app/about/page.jsx [Server Component]
+
+  Client Component SSR:
+    ./src/app/about/page.jsx [Client Component SSR]
+    ./src/app/about/page.jsx [Server Component]
+[02:46:02.580] Server  LOG      ✓ Compiled in 140ms
+[02:47:32.759] Server  LOG      ✓ Compiled in 58ms
+[02:48:27.357] Server  LOG      ✓ Compiled in 128ms
+[02:48:32.369] Server  LOG      ✓ Compiled in 42ms
+[02:48:37.024] Server  LOG      ✓ Compiled in 187ms
+[02:49:14.494] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:49:14.494] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:49:51.869] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[02:49:52.139] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:49:52.582] Browser WARN    Image with src "https://imgs.search.brave.com/rC3ssk-gvdwgBpPJ9PjOqrcj8jKzQMO86FuNM7v5eJg/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMucGV4ZWxzLmNv/bS9waG90b3MvOTM3/NjY4L3BleGVscy1w/aG90by05Mzc2Njgu/anBlZz9hdXRvPWNv/bXByZXNzJmNzPXRp/bnlzcmdiJmRwcj0x/Jnc9NTAw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:51:05.814] Browser WARN    Image with src "https://imgs.search.brave.com/Kb_n4lekg2Z4SNucO2bCiHACUXZv7tdIXoocyN4GF8w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzM3Lzk4/Lzg2LzM3OTg4Njc3/NGJkZmZkNDZkNWZm/MWY0ZDBmZjljYTc2/LmpwZw" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:51:05.814] Browser WARN    Image with src "https://imgs.search.brave.com/fSbdQwfU4-8zBETzATRkbMC3T0W3TywivMXPx_JutsU/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzE1LzE5LzU2LzU4/LzM2MF9GXzE1MTk1/NjU4MzBfbzBEY202/djYyQUJoRFZKNUcx/VHFoSjFHbTFnWGV6/ZzIuanBn" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:51:05.814] Browser WARN    Image with src "https://imgs.search.brave.com/hxG-HjO_8HZjeGd02aglXB23N1weZm7y1QcSi9tMPfA/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly93d3cu/a2lhLmNvbS9jb250/ZW50L2RhbS9rd2Nt/cy9hdS9lbi9pbWFn/ZXMvY2F0ZWdvcnkv/c2VkYW5zL3doYXQt/aXMva2lhLXNlZGFu/LXJhbmdlLXRodW1i/bmFpbHMtazQud2Vi/cA" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:51:05.814] Browser WARN    Image with src "https://imgs.search.brave.com/26YvVNuorR_2orHrQDsZ2gCK3IwCSRjKlM5U-9ZuHZ8/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTUw/NzgzMzc5OS9waG90/by9hLXdoaXRlLWZv/cmQtZXhwZWRpdGlv/bi1zdXYtY3J1aXNp/bmctb24tYWxsZW4t/cGFya3dheS1pbi1o/b3VzdG9uLmpwZz9z/PTYxMng2MTImdz0w/Jms9MjAmYz01ZEdW/VGI2SHpUVE9VcDFN/ZmFwMnkxajhkRTl3/Nk01akkyRXJ4OFJk/b1A4PQ" has "fill" but is missing "sizes" prop. Please add it to improve page performance. Read more: https://nextjs.org/docs/api-reference/next/image#sizes
+[02:51:40.522] Browser LOG     {"apiKey":"AIzaSyC1VxCUOIyTJYR9EvhAbNIYynflMBWQQEw","appName":"[DEFAULT]","createdAt":"1764141099394","displayName":"Bipul","email":"bipul@gmail.com","emailVerified":false,"isAnonymous":false,"lastLoginAt":"1764143152423","providerData":[{"displayName":"Bipul","email":"bipul@gmail.com","phoneNumber":null,"photoURL":null,"providerId":"password","uid":"bipul@gmail.com"}],"stsTokenManager":{"accessToken":"eyJhbGciOiJSUzI1NiIsImtpZCI6IjQ1YTZjMGMyYjgwMDcxN2EzNGQ1Y2JiYmYzOWI4NGI2NzYxMjgyNjUiLCJ0eXAiOiJKV1QifQ.eyJuYW1lIjoiQmlwdWwiLCJpc3MiOiJodHRwczovL3NlY3VyZXRva2VuLmdvb2dsZS5jb20vbS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXVkIjoibS00OS1pbnRlZ3JhdGlvbi1wcml2YXRlLXJvdXRlIiwiYXV0aF90aW1lIjoxNzY0MTQzMTUyLCJ1c2VyX2lkIjoibTJ6c2lsZXd1cWhrWncxSjAwb0hxcUpVY1pLMiIsInN1YiI6Im0yenNpbGV3dXFoa1p3MUowMG9IcXFKVWNaSzIiLCJpYXQiOjE3NjQxNDMxNTIsImV4cCI6MTc2NDE0Njc1MiwiZW1haWwiOiJiaXB1bEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6ZmFsc2UsImZpcmViYXNlIjp7ImlkZW50aXRpZXMiOnsiZW1haWwiOlsiYmlwdWxAZ21haWwuY29tIl19LCJzaWduX2luX3Byb3ZpZGVyIjoicGFzc3dvcmQifX0.HpR7eI65xIPTNiXuALuO6RX8OuPuUEJ6AF_y2-zByN19KdoK8sCD8jdQM335q7zTRvho-2WnMbc79Xdix4v3p_RjyRV12AESNtinnVSZ_YLnFOCf0nXfjG3OtJHXfOa1G71fdjpTuLuyz1OdvGsCMQRo1rYtU-04d9IhgzBL5MRF_usvBFaIQqxkyznyvyVzLxs2XU4O_y3Tt8o1tHVVJgXGgZ9tH3MSksBLEv_bPgxx7cg3hBBh0hmVAhmGGunHA1AGJxdI5XzhUcaquwgHXjnEn0fWr7U8VodWBMMDt3FPMrdyuBkPe6cXbo1iMagAMjmJ96LlNzJIKfSQRRsG7g","expirationTime":1764146754171,"refreshToken":"AMf-vBxVKApop_FRG5T7NPYMU7wbTQ_uwlG_9dR62GyIrfqYbl6CYRTPDKm58OeCjCDjV33NPd2-0zQsh7BAP0wSE6gnvvkHu8Rf265aLQIDOtGgXwgmWjWUTgKZNQwJoS-95a5VhZkkrd1LwxwnSB4Kgzp58KLSKv24tVmyLDS1A-122jt8MVfYvPMkxvC-6dA2aOluZnJhc3zkhYxbGnimOiQcSyx3Few_P8lu4ucdMX39gSdwhBXUZ2frgsKyKAJ1P5TmEJbV"},"uid":"m2zsilewuqhkZw1J00oHqqJUcZK2"}
+[02:54:10.177] Server  LOG      ✓ Compiled in 277ms
+[02:54:23.041] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:54:23.041] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:55:00.311] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:55:00.311] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:55:02.602] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:55:02.602] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:55:07.811] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters
+[02:55:07.811] Browser WARN    Swiper Loop Warning: The number of slides is not enough for loop mode, it will be disabled or not function properly. You need to add more slides (or make duplicates) or lower the values of slidesPerView and slidesPerGroup parameters

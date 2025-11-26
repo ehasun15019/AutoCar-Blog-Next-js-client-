@@ -8,7 +8,7 @@ import React, { use } from "react";
 import { FaBars } from "react-icons/fa";
 import Swal from "sweetalert2";
 import { usePathname } from "next/navigation"; // <-- Import
-import './Navbar.css'
+import "./Navbar.css";
 
 const Navbar = () => {
   const { user, signOutFunction } = use(AuthContext);
@@ -44,14 +44,14 @@ const Navbar = () => {
     <div className="navbar shadow-sm">
       <div className="navbar-start px-4">
         <div className="dropdown">
-          <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+          <label tabIndex={0} className="btn btn-ghost lg:hidden">
             <FaBars />
-          </div>
+          </label>
           <ul
-            tabIndex="-1"
-            className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow"
+            tabIndex={0}
+            className="menu menu-sm dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52"
           >
-            {links.map(link => (
+            {links.map((link) => (
               <li key={link.href}>
                 <Link
                   href={link.href}
@@ -63,6 +63,7 @@ const Navbar = () => {
             ))}
           </ul>
         </div>
+
         <Link href="/" className="flex gap-2 items-center">
           <Image src={assets.logo} alt="logo" height={40} />
         </Link>
@@ -70,7 +71,7 @@ const Navbar = () => {
 
       <div className="navbar-center hidden lg:flex">
         <ul className="menu menu-horizontal px-1">
-          {links.map(link => (
+          {links.map((link) => (
             <li key={link.href}>
               <Link
                 href={link.href}
