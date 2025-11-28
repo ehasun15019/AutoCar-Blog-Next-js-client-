@@ -199,7 +199,7 @@ const Dashboard = () => {
             </div>
           ))
         ) : (
-          <div className="text-center py-8 text-gray-500 text-lg">
+          <div className="text-center py-8 text-gray-800 text-lg">
             No data found 😄
           </div>
         )}
